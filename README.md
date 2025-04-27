@@ -13,18 +13,18 @@ The **StudyDesign** Folder includes two subfolders **Backpack** and **Hotel**, e
 
 Each example includes: 
 
-> > control.png is a screenshot of the user study that was presented to the *control* group (i.e. two recommended items without any explanation) 
+> control.png is a screenshot of the user study that was presented to the *control* group (i.e. two recommended items without any explanation) 
 
-> > external_information.png is a screenshot of the user study that was presented to the group with the nudging mechanism *make external information visible*  
+> external_information.png is a screenshot of the user study that was presented to the group with the nudging mechanism *make external information visible*  
 
-> > increased_salience.png is a screenshot of the user study that was presented to the group with the nudging mechanism *increase salience of attributes*  
+> increased_salience.png is a screenshot of the user study that was presented to the group with the nudging mechanism *increase salience of attributes*  
 
-> > positive_framing.png is a screenshot of the user study that was presented to the group with the nudging mechanism *(positive) framing*  
+> positive_framing.png is a screenshot of the user study that was presented to the group with the nudging mechanism *(positive) framing*  
 
-> > simplification.png is a screenshot of the user study that was presented to the group with the nudging mechanism *simplification*  
+> simplification.png is a screenshot of the user study that was presented to the group with the nudging mechanism *simplification*  
 
 
-> > follow_up_questions.png is a screenshot of the follow up questions that were shown in the second stage of the user study to the treatment groups (i.e. groups who received a nudged explanation). 
+> follow_up_questions.png is a screenshot of the follow up questions that were shown in the second stage of the user study to the treatment groups (i.e. groups who received a nudged explanation). 
 
 
 from that specific domain.
