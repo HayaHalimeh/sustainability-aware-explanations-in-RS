@@ -13,7 +13,7 @@ The **StudyDesign** Folder includes two subfolders **Backpack** and **Hotel**, e
 
 Each example includes: 
 
-> control.png is a screenshot of the user study that was presented to the *control* group (i.e. two recommended items without any explanation) 
+`control.png` is a screenshot of the user study that was presented to the *control* group (i.e. two recommended items without any explanation) 
 
 > external_information.png is a screenshot of the user study that was presented to the group with the nudging mechanism *make external information visible*  
 
