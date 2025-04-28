@@ -5,6 +5,7 @@ This repository accompanies the paper Sustainability-Aware Explanations in Recom
 
 Included Files
 
+---
 The `Study_Preregisteration.pdf` file includes the pre-regesiration of the study via AsPredicted.org
 
 
@@ -32,6 +33,6 @@ from that specific domain.
 
 `evaluation_rq3_hotels.ipynb` includes the evaluation for research questions 3 (domain tourism)from the paper.
 
-
+---
 Participants' answes are not included for data privacy reasons, but can anonymousely provided upon request.
 
