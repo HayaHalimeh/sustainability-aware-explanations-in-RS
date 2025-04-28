@@ -1,4 +1,4 @@
-# sustainable-aware-explanations-in-RS
+# sustainability-aware-explanations-in-RS
 
 This repository accompanies the paper Sustainability-Aware Explanations in Recommender Systems
 
