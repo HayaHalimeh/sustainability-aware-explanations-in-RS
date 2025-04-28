@@ -1,4 +1,3 @@
-# sustainability-aware-explanations-in-RS
 
 This repository accompanies the paper Sustainability-Aware Explanations in Recommender Systems
 
@@ -23,12 +22,16 @@ Each example includes:
 
 `simplification.png` is a screenshot of the user study that was presented to the group with the nudging mechanism *simplification*  
 
-
 `follow_up_questions.png` is a screenshot of the follow up questions that were shown in the second stage of the user study to the treatment groups (i.e. groups who received a nudged explanation). 
-
 
 from that specific domain.
 
+`evaluation_rq1_rq2.ipynb` includes the evaluation for research questions 1 & 2 from the paper. 
 
-Participants' answes are not included for data privacy reasons.
+`evaluation_rq3_backpacks.ipynb` includes the evaluation for research questions 3 (domain fashion) from the paper.
+
+`evaluation_rq3_hotels.ipynb` includes the evaluation for research questions 3 (domain tourism)from the paper.
+
+
+Participants' answes are not included for data privacy reasons, but can anonymousely provided upon request.
 
