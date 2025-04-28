@@ -5,7 +5,6 @@ This repository accompanies the paper Sustainability-Aware Explanations in Recom
 
 Included Files
 
----
 The `Study_Preregisteration.pdf` file includes the pre-regesiration of the study via AsPredicted.org
 
 
